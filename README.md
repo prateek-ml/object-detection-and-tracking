@@ -12,11 +12,11 @@ First, run the <code>detect.py</code> file on your terminal and pass the desired
 Then, use the provided trackbars to manipulate the H, S, and V parameters that match the object color and it gets tracked.
 
 **Image Example** 
-<img src='img-ex.png' width=800 height=600>
+<img src='img_ex.png' width=800 height=600>
 
 
 ## How to Detect Objects in Videos?
 That's even simpler. Run the <code>tracking.py</code> file. Your default webcam will be automatically opened and just like the above example, adjust HSV to detect any object around you.
 
 **Video Example**
-<img src='vid-ex.png' width=800 height=600>
+<img src='vid_ex.png' width=800 height=600>
